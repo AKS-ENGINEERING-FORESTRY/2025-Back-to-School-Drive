@@ -1,5 +1,5 @@
 let items = [
-  { name: "BACKPACKS", donated: 5, goal: 50, color: "#d4145a", icon: "backpack.png" },
+  { name: "BACKPACKS", donated: 6, goal: 50, color: "#d4145a", icon: "backpack.png" },
   { name: "WIRED EARBUDS", donated: 0, goal: 30, color: "#fbb03b", icon: "earbuds.png" },
   { name: "WIRED OVER-THE-EAR\nHEADPHONES", donated: 0, goal: 20, color: "#22b573", icon: "headphones.png" },
   { name: "WATER BOTTLES", donated: 0, goal: 30, color: "#29abe2", icon: "waterbottle.png" }
@@ -10,7 +10,7 @@ let legend;
 
 
 let moneyIcon;
-let moneyChart = { donated: 225, goal: 2000, color: "#22b573", icon: "money.png" };
+let moneyChart = { donated: 325, goal: 2000, color: "#22b573", icon: "money.png" };
 
 
 function preload() {
