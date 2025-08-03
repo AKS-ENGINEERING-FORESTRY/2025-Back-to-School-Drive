@@ -10,7 +10,7 @@ let legend;
 
 
 let moneyIcon;
-let moneyChart = { donated: 325, goal: 2000, color: "#22b573", icon: "money.png" };
+let moneyChart = { donated: 375, goal: 2000, color: "#22b573", icon: "money.png" };
 
 
 function preload() {
