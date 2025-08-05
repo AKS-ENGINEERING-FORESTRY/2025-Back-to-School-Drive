@@ -1,8 +1,8 @@
 let items = [
-  { name: "BACKPACKS", donated: 18, goal: 50, color: "#d4145a", icon: "backpack.png" },
+  { name: "BACKPACKS", donated: 21, goal: 50, color: "#d4145a", icon: "backpack.png" },
   { name: "WIRED EARBUDS", donated: 5, goal: 30, color: "#fbb03b", icon: "earbuds.png" },
   { name: "WIRED OVER-THE-EAR\nHEADPHONES", donated: 5, goal: 20, color: "#22b573", icon: "headphones.png" },
-  { name: "WATER BOTTLES", donated: 4, goal: 30, color: "#29abe2", icon: "waterbottle.png" }
+  { name: "WATER BOTTLES", donated: 8, goal: 30, color: "#29abe2", icon: "waterbottle.png" }
 ];
 
 let icons = [];
