@@ -109,7 +109,7 @@ text("Hover over each bar to see donation details.", width / 2, 95);
 
       if (item.donated >= item.goal) {
         fill(255); // White text for contrast
-        text(`Goal Completed:\n${item.donated} Donated`, marginLeft + barWidth / 2, y + barHeight / 2);
+        text(`Goal Completed:\n${item.donated} Donated`, marginLeft + 100, y + barHeight / 2);
       } else {
         fill(0); // Black text
         textAlign(LEFT, BOTTOM);
