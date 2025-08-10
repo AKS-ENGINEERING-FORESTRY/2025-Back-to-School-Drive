@@ -1,8 +1,8 @@
 let items = [
-  { name: "BACKPACKS", donated: 21, goal: 50, color: "#d4145a", icon: "backpack.png" },
-  { name: "WIRED EARBUDS", donated: 5, goal: 30, color: "#fbb03b", icon: "earbuds.png" },
-  { name: "WIRED OVER-THE-EAR\nHEADPHONES", donated: 5, goal: 20, color: "#22b573", icon: "headphones.png" },
-  { name: "WATER BOTTLES", donated: 8, goal: 30, color: "#29abe2", icon: "waterbottle.png" }
+  { name: "BACKPACKS", donated: 45, goal: 50, color: "#d4145a", icon: "backpack.png" },
+  { name: "WIRED EARBUDS", donated: 19, goal: 30, color: "#fbb03b", icon: "earbuds.png" },
+  { name: "WIRED OVER-THE-EAR\nHEADPHONES", donated: 20, goal: 20, color: "#22b573", icon: "headphones.png" },
+  { name: "WATER BOTTLES", donated: 30, goal: 30, color: "#29abe2", icon: "waterbottle.png" }
 ];
 
 let icons = [];
@@ -10,7 +10,7 @@ let legend;
 
 
 let moneyIcon;
-let moneyChart = { donated: 890, goal: 2000, color: "#22b573", icon: "money.png" };
+let moneyChart = { donated: 2080, goal: 2000, color: "#22b573", icon: "money.png" };
 
 
 function preload() {
